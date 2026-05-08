@@ -73,15 +73,6 @@ Acredito que bons desenvolvedores entendem o sistema como um todo, não apenas a
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucasprado-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprado-dev&layout=compact&theme=dark&hide_border=true&locale=pt-br" />
-</p>
-
----
-
 <p align="center">
   <i>Sempre aberto a projetos interessantes e novas oportunidades. Fique à vontade para entrar em contato!</i>
 </p>
